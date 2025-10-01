@@ -1,0 +1,6 @@
+body {
+  padding-top: 70px; /* avoid navbar overlap */
+}
+header {
+  background: linear-gradient(to right, #343a40, #212529);
+}
